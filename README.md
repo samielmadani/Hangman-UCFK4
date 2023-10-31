@@ -1,8 +1,5 @@
 Hangman for the UCFK4
 
-Max Croucher and Sami Elmadani
-17/15/2021
-
 How to play:
 Hangman is a game where you try to reveal a hidden word by guessing individual letters before a complete image of a person is formed. If you guess a letter correctly, all occurrences of this letter in the hidden word will be revealed. If you guess a letter incorrectly, then part of the image of the person will be revealed.
 The game starts with the complete hangman visible onscreen. Press in the navswitch to begin the game! a short animation will play which shows all the different frames for the hangman character. Then, the length of the hidden word will flash onscreen.
